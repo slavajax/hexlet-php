@@ -1,0 +1,15 @@
+{
+    "name": "slavajax/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Slavajax\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stanislav",
+            "email": "s.ryndin@wssupport.ru"
+        }
+    ],
+    "require": {}
+}
